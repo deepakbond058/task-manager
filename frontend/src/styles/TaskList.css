@@ -1,0 +1,11 @@
+/* TaskList.css */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-md-4 {
+  flex: 1;
+  max-width: 100%;
+  padding: 0.5rem;
+}

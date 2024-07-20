@@ -1,0 +1,13 @@
+/* TaskForm.css */
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-control {
+  border-radius: 0.3rem;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}

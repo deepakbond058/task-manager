@@ -1,0 +1,9 @@
+/* TaskItem.css */
+.card {
+  border: 1px solid #dee2e6;
+  border-radius: 0.3rem;
+}
+
+.card-body {
+  padding: 1.25rem;
+}
